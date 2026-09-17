@@ -201,3 +201,6 @@ Seven Transformation Pack is the **full free version** with all features and upd
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-17 08:58:15 UTC
